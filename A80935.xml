@@ -1,0 +1,522 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Lord Lieutenant of Ireland, to the Honorable William Lenthall Esq; Speaker of the Parliament of England, relating the several successes it hath pleased God lately to give the Parliaments forces there. Together with the several transactions about the surrender of Kilkenny, and the articles agreed thereupon. Die Sabbathi, 13 Aprilis, 1650. Ordered by the Parliament, that the letter of the Lord Lieutenant of Ireland, ... be forthwith printed and published; ... Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>Ireland. Lord Lieutenant (1649-1650 : Cromwell)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80935</idno>
+            <idno type="STC">Wing C7103</idno>
+            <idno type="STC">Thomason E598_2</idno>
+            <idno type="STC">ESTC R205065</idno>
+            <idno type="EEBO-CITATION">99864506</idno>
+            <idno type="PROQUEST">99864506</idno>
+            <idno type="VID">165595</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80935)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165595)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 92:E598[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Lord Lieutenant of Ireland, to the Honorable William Lenthall Esq; Speaker of the Parliament of England, relating the several successes it hath pleased God lately to give the Parliaments forces there. Together with the several transactions about the surrender of Kilkenny, and the articles agreed thereupon. Die Sabbathi, 13 Aprilis, 1650. Ordered by the Parliament, that the letter of the Lord Lieutenant of Ireland, ... be forthwith printed and published; ... Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>Ireland. Lord Lieutenant (1649-1650 : Cromwell)</author>
+                  <author>Cromwell, Oliver, 1599-1658.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>22 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Husband and John Field, printers to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: the 1650 imprint date is crossed out and replaced with "1649".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ireland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165595:1" rendition="simple:additions"/>
+            <p>A LETTER FROM The Lord Lieutenant of IRELAND, TO The Honorable <hi>William Lenthall</hi> 
+               <abbr>Eſq</abbr> Speaker of the Parliament of <hi>England,</hi> Relating the ſeveral Succeſſes it hath pleaſed God lately to give the Parliaments Forces there.</p>
+            <p>Together with the ſeveral Tranſactions about the Surrender of KILKENNY, And the ARTICLES agreed thereupon.</p>
+            <p>
+               <hi>Die Sabbathi, 13 Aprilis, 1650.</hi>
+            </p>
+            <p>ORdered by the Parliament, That the Letter of the Lord Lieutenant of <hi>Ireland,</hi> and the ſeveral Papers and Tranſactions therein incloſed, be forthwith printed and pub<g ref="char:EOLhyphen"/>liſhed; and that the conſideration of the ſaid Letter be re<g ref="char:EOLhyphen"/>ferred to the Councel of State.</p>
+            <p>
+               <hi>Hen: Scobell, Cleric. Parliamenti.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed by <hi>Edward Huſband</hi> and <hi>John Field,</hi> Printers to the Parliament of <hi>England.</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:165595:2"/>
+            <pb n="3" facs="tcp:165595:2" rendition="simple:additions"/>
+            <head>For the Honorable <hi>William Lenthal</hi> 
+               <abbr>Eſq</abbr> Speaker of the Parliament of <hi>England.</hi>
+            </head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>I Think the laſt Letter I troubled you with, was about the taking of <hi>Cahiz;</hi> ſince which time there was taken by beating up their quarters, two Colo<g ref="char:EOLhyphen"/>nels, a Lieutenant Colonel, Major, and divers Ca<g ref="char:EOLhyphen"/>ptains, all of Horſe: Colonel <hi>Johnſon,</hi> Lieutenant Co<g ref="char:EOLhyphen"/>lonel <hi>Longhorn</hi> and Major <hi>Simes,</hi> were ſhot to death, as having ſerved under the Parliament, but now taken up Arms with the Enemy. Hearing that <hi>Caſtlehaven</hi> and Lieutenant General <hi>Farrald</hi> were about <hi>Kilkenny</hi> with their Army, lying there quartered, and about <hi>Carlo</hi> and <hi>Loughlin</hi>-Bridge; and hearing alſo that Colonel <hi>Hew<g ref="char:EOLhyphen"/>ſon</hi> with a good party from <hi>Dublin,</hi> was come as far as <hi>Balliſannon,</hi> and had taken it, we thought fit to ſend an Expreſs to him, to march up towards us for a conjun<g ref="char:EOLhyphen"/>ction: And becauſe we doubted the ſufficiency of his party to march with that ſecurity which were to be wiſh<g ref="char:EOLhyphen"/>ed, Colonel <hi>Shilbourn</hi> was ordered to go with ſome Troops of Horſe out of the county of <hi>Wexford</hi> (which was his ſtation) to meet him. And becauſe the Enemy was poſſeſſed of the fitteſt places upon the Barrow for our conjunction, we ſent a party of ſeven or eight hun<g ref="char:EOLhyphen"/>dred Horſe and Dragoons, and about five hundred Foot, to attempt upon <hi>Caſtlehaven</hi> in the Rere, if he ſhould have endeavored to have defended the places againſt Colonel <hi>Hewſon.</hi>
+            </p>
+            <p>Our party being a light nimble party, was at the Bar<g ref="char:EOLhyphen"/>row
+<pb n="4" facs="tcp:165595:3"/>
+ſide before Col: <hi>Hewſon</hi> could be heard of, and poſ<g ref="char:EOLhyphen"/>ſeſſed a Houſe by the Grage: They marched towards <hi>Loughlin,</hi> and faced <hi>Caſtlehaven</hi> at a pretty diſtance, but he ſhewed no forwardneſs to engage.</p>
+            <p>Our party not being able to hear of Colonel <hi>Hewſon,</hi> came back as far as <hi>Thomas</hi>-town, a ſmall walled Town, and a Paſs upon the <hi>Nur</hi> between <hi>Kilkenny</hi> and <hi>Roſs,</hi> which our men attempting to take, the Enemy made no great reſiſtance, but by the advantage of the Bridge quitted the Town, and fled to a Caſtle about half a mile diſtant off, which they had formerly poſſeſſed: That night the Preſident of <hi>Munſter</hi> and my ſelf came up to the party, we Summoned the ſaid Caſtle, and after two days it was ſurrendred to us; the Enemy leaving their Arms, Drums, Colours and Ammunition behinde them, and engaging never to bear Arms more againſt the Parliament of <hi>England.</hi>
+            </p>
+            <p>We lay ſtill after this about two or three days; The Preſident went back to <hi>Fetherd,</hi> to bring up ſome great Guns, with a purpoſe to attempt upon the <hi>Granno,</hi> and ſome Caſtles thereabouts, for the better blocking up of <hi>Waterford,</hi> and to cauſe to advance up to us ſome more of our Foot. In the end we had advertiſement that Co<g ref="char:EOLhyphen"/>lonel <hi>Hewſon</hi> was come to <hi>Loughlin,</hi> where was a very ſtrong Caſtle and Paſs over the Barrow; I ſent him word that he ſhould attempt it, which he did, and after ſome diſpute reduced it: By which means we have a good Paſs over the Barrow, and entercourſe between <hi>Munſter</hi> and <hi>Lemſter.</hi> I ſent Colonel <hi>Hewſon</hi> word, That he ſhould march up to me, and we advancing like<g ref="char:EOLhyphen"/>wiſe with our party, met near by <hi>Goran</hi> (a populous town) where the Enemy had a very ſtrong Caſtle, under the command of Colonel <hi>Hamond,</hi> a Kentiſhman, who was
+<pb n="5" facs="tcp:165595:3"/>
+a principal actor in the Kentiſh Inſurrection, and did manage the Lord <hi>Capels</hi> buſineſs at his Tryal: I ſent him a civil Invitation to deliver up the Caſtle unto me, to which he returned me a very reſolute anſwer, and full of height: We planted our Artillery, and before we had made a breach conſiderable, the Enemy beat a par<g ref="char:EOLhyphen"/>ley for a Treaty, which I (having offered ſo fairly before to him) refuſed, but ſent him in poſitive conditions, that the Soldiers ſhould have their lives, and the Commiſſion Officers to be diſpoſed of as ſhould be thought fit; which in the end was ſubmitted to.</p>
+            <p>The next day the Colonel, the Major, and the reſt of the Commiſſion Officers were ſhot to death, all but one, who being a very earneſt inſtrument to have the Caſtle delivered, was pardoned. In the ſame Caſtle alſo we took a Popiſh Prieſt, who was Chaplain to the Catho<g ref="char:EOLhyphen"/>liques in this Regiment, who was cauſed to be hanged. I trouble you with this the rather, becauſe this Regiment was the Lord of <hi>Ormonds</hi> own Regiment. In this Caſtle was good ſtore of Proviſions for the Army.</p>
+            <p>After the taking of this Caſtle, it was agreed amongſt us to march to the city of <hi>Kilkenny,</hi> which we did upon Friday the 22<hi rend="sup">th</hi> of <hi>March;</hi> and coming with our body within a mile of the Town, we advanced with ſome Horſe very near unto it; and that evening I ſent Sir <hi>Walter Butler</hi> and the Corporation a Letter, a copy whereof is here incloſed. From whom the next day I received this Anſwer: We took the beſt view we could where to plant our Batteries; and upon Monday the 25<hi rend="sup">th</hi> our Battery, conſiſting of three Guns, began to play. After near a hundred ſhot, we made a breach, as we hoped, ſtormable: Our men were drawn out rea<g ref="char:EOLhyphen"/>dy for the attempt; and Colonel <hi>Ewers</hi> ordered with
+<pb n="6" facs="tcp:165595:4"/>
+about One thouſand Foot to endeavor to poſſeſs the Iriſh Town much about the time of our ſtorming, which he accordingly did, with the loſs of not above three or four men. Our men upon the Signal fell on upon the breach, which indeed was not performed with uſual courage nor ſucceſs, but were beaten off with the loſs of one Captain, and about twenty or thirty men killed and wounded. The Enemy had made two retrenchments or counter-works, which they had ſtrongly pallizado'd; and both of them did ſo command our breach, that in<g ref="char:EOLhyphen"/>deed it was a mercy to us, we did not farther contend for an entrance there, it being probable that if we had, it would have coſt us very dear.</p>
+            <p>Having poſſeſſed the Iriſh Town, and there being an<g ref="char:EOLhyphen"/>other walled Town on the other ſide of the River; eight Companies of Foot were ſent over the River to poſſeſs that, which accordingly was effected, and not above the like number loſt that were in poſſeſſing the Iriſh Town. The Officer that commanded this party in chief, at<g ref="char:EOLhyphen"/>tempting to paſs over the Bridge into the city, and to fire the gate, which indeed was done with good reſolu<g ref="char:EOLhyphen"/>tion, but lying too open to the Enemy-ſhot, he had forty or fifty men killed and wounded, which was a ſore blow to us. We made our preparations for a ſecond Battery, which was well near perfected: The Enemy ſeeing him<g ref="char:EOLhyphen"/>ſelf thus begirt, ſent for a Treaty, and had it; and in ſome hours agreed to deliver up the Caſtle upon the Ar<g ref="char:EOLhyphen"/>ticles incloſed, which we received upon Thurſday the 28<hi rend="sup">th</hi> of <hi>March.</hi>
+            </p>
+            <p>We finde the Caſtle exceeding well fortified, by the induſtry of the Enemy, being alſo very capacious; ſo that if we had taken the Town, we muſt have had a new work for the Caſtle, which might have coſt much blood
+<pb n="7" facs="tcp:165595:4"/>
+and time, ſo that we hope the Lord hath provided bet<g ref="char:EOLhyphen"/>ter for us; and we look at it as a gracious mercy, that we have the place for you upon theſe terms.</p>
+            <p>Whileſt theſe affairs were tranſacting, a Lieutenant Colonel, three Majors, eight Captains, being Engliſh, Welch and Scotch, with others poſſeſſed of <hi>Cantwel</hi> Caſtle, a very ſtrong Caſtle, ſcituated in a Bog, well furniſhed with proviſions of Corn, were ordered by Sir <hi>Walter Butler</hi> to come to ſtrengthen the Garriſon of <hi>Kilkenny;</hi> But they ſent two Officers to me, to offer me the place and their ſervice, and that they might have Paſſes to go beyond Sea to ſerve Forraign States, with ſome Money to bear their charges; the laſt whereof I conſented to, they promiſing to do nothing to the pre<g ref="char:EOLhyphen"/>judice of the Parliament of <hi>England.</hi>
+            </p>
+            <p>Colonel <hi>Abbot</hi> alſo attempted <hi>Eniſnag,</hi> where were gotten a company of Rogues which revolted from Co<g ref="char:EOLhyphen"/>lonel <hi>Jones;</hi> The Soldiers capitulated for life, and their two Officers were hanged for revolting.</p>
+            <p>Adjutant General <hi>Sadler</hi> was commanded with two Guns to attempt ſome Caſtles in the County of <hi>Tippe<g ref="char:EOLhyphen"/>rary</hi> and <hi>Kilkenny,</hi> which being reduced, exceedingly tend to the blocking up of two conſiderable Towns: He ſummoned <hi>Polkerry,</hi> a Gariſon under <hi>Clonmel,</hi> battered it, they refuſing to come out, ſtormed it, put thirty or forty of them to the Sword, and the reſt remaining ob<g ref="char:EOLhyphen"/>ſtinate were fired in the Caſtle; he took <hi>Ballo-Doin,</hi> the Enemy marching away leaving their Arms behinde them; he took alſo the <hi>Granno</hi> and <hi>Donkit,</hi> two very conſiderable places to <hi>Waterford,</hi> upon the ſame terms.</p>
+            <p>We have advanced our Quarters towards the Enemy, a conſiderable way above <hi>Kilkenny,</hi> where we hope by gaining of ground to get ſubſiſtance, and ſtill to grow
+<pb n="8" facs="tcp:165595:5"/>
+upon the Enemy as the Lord ſhall bleſs us.</p>
+            <p>Sir, I may not be wanting to tell you, and renew it again, that our hardſhips are not a few, that I think in my conſcience if moneys be not ſupplyed, we ſhall not be able to carry on your work; I would not ſay this to you, if I did not reckon it my duty ſo to do: But if it be ſupplyed, and that ſpeedily, I hope through the good hand of the Lord, it will not be long before <hi>England</hi> will be at an end of this charge; for the ſaving of which, I beſeech you help us as ſoon as you can. Sir, our Horſe have not had one moneths pay of five, we ſtrain what we can that the Foot may be paid, or elſe they would ſtarve: Thoſe Towns that are to be reduced, eſpecially one or two of them, if we ſhould proceed by the rules of other States, would coſt you more money then this Army hath had ſince we came over; I hope through the bleſſing of God they will come cheaper to you: But how we ſhould be able to proceed in our at<g ref="char:EOLhyphen"/>tempts without reaſonable ſupply, is humbly ſubmitted and repreſented to you; I think I need not ſay, that a ſpeedy period put to this work will break the expecta<g ref="char:EOLhyphen"/>tion of all your Enemies: And ſeeing the Lord is not wanting to you, I moſt humbly beg it, that you would not be wanting to your ſelves.</p>
+            <p>In the laſt place, it cannot be thought but the taking of theſe places, and keeping but what is neceſſary of them, it muſt needs ſwallow up our Foot; and I may humbly repeat it again, That I do not know of much above Two thouſand of your Five thouſand recruits come to us. Having given you this accompt concern<g ref="char:EOLhyphen"/>ing your Affairs, I am now obliged to give you an ac<g ref="char:EOLhyphen"/>compt concerning my ſelf, which I ſhall do with all clearneſs and honeſty.</p>
+            <p>
+               <pb n="9" facs="tcp:165595:5"/>I have received divers private intimations of your plea<g ref="char:EOLhyphen"/>ſure to have me come in perſon to wait upon you in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as alſo copies of the Votes of the Parliament to that purpoſe; but conſidering the way they came to me were but private intimations, and the Votes did refer to a Letter to be Signed by the Speaker, I thought it would have been too much forwardneſs in me to have left my charge here, until the ſaid Letter came: It not being fit for me to Propheſie whether the Letter would be an abſolute Command, or having limitations with a liberty left by the Parliament to me, to conſider in what way to yield my obedience; your Letter came to my hands upon <hi>Friday</hi> the 22<hi rend="sup">th</hi> of <hi>March,</hi> the ſame day that I came before the City of <hi>Kilkenny;</hi> and when I was near the ſame, and underſtood by Dr. <hi>Cartright</hi> who delivered it to me, That by reaſon of croſs winds, and the want of Shipping in the Weſt of <hi>England</hi> where he was, hindred him from coming with it ſooner, it bearing date the eighth of <hi>January,</hi> and not coming to my hands until the Twenty ſecond of <hi>March;</hi> The Letter ſuppoſed your Army in Winter Quarters, and the time of the year not ſuitable for preſent action, making this as the reaſon of your Command: And your Forces having been in action ever ſince the 29<hi rend="sup">th</hi> of <hi>January;</hi> And your Letter which was to be the rule of my obedience, coming to my hands after our having been ſo long in action, with reſpect had to the reaſons you were pleaſed to uſe therein; And having received a Letter ſigned by your ſelf of the 26<hi rend="sup">th</hi> of <hi>February,</hi> which mentions not one word of the continuance of your plea<g ref="char:EOLhyphen"/>ſure concerning my coming over: I did humbly con<g ref="char:EOLhyphen"/>ceive it much conſiſting with my duty, humbly to beg a poſitive ſignification what your will is, profeſſing (as be<g ref="char:EOLhyphen"/>fore
+<pb n="10" facs="tcp:165595:6"/>
+the Lord) that I am moſt ready to obey your Com<g ref="char:EOLhyphen"/>mands herein with all alacrity, rejoycing onely to be about that work which I am called to by thoſe God hath ſet over me, which I acknowledge you to be, and fear<g ref="char:EOLhyphen"/>ing onely in obeying you to diſobey you: I moſt hum<g ref="char:EOLhyphen"/>bly and earneſtly beſeech you to judge for me, whether your Letter doth not naturally allow me the liberty of begging a more clear expreſſion of your command and pleaſure, which when vouchſafed unto me, will finde moſt ready and chearful obſervance, from</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your moſt humble Servant, <hi>O. CROMVVEL.</hi>
+               </signed>
+               <dateline>
+                  <hi>Carick,</hi> 
+                  <date>
+                     <hi>April</hi> the ſecond, 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="11" facs="tcp:165595:6"/>
+            <head>A Copy of the Summons to <hi>Kilkenny.</hi>
+            </head>
+            <opener>
+               <salute>GEntlemen,</salute>
+            </opener>
+            <p>My coming hither is to endeavor, if God ſo pleaſe to bleſs me, the Reduction of the City of <hi>Kilkenny</hi> to their obedience to the State of <hi>England,</hi> from which by an unheard of Maſſacre of the innocent Engliſh, you have endeavored to rend your ſelves; and as God hath begun to judge you with his ſore plague, ſo will he follow you until he have deſtroy<g ref="char:EOLhyphen"/>ed you, if you repent not: Your cauſe hath been judged already in <hi>England,</hi> upon them who did abet your evils, what may the Principals then expect? by this free dealing you ſee I intice you not to a compliance, you may have Terms may ſave you in your lives, liberties and eſtates, according to what will be fitting for me to grant, and you to receive; if you chooſe for the worſt, blame your ſelves: In confidence of the gracious bleſſing and preſence of God with his own Cauſe, which this is by many teſtimonies, I ſhall hope for a good iſſue upon my endeavors; expecting a return from you, I reſt,</p>
+            <closer>
+               <signed>Your Servant, <hi>O. C.</hi>
+               </signed>
+               <dateline>
+                  <date>23 <hi>Martii,</hi> 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Anſwer of the Governor of <hi>Kilkenny</hi> to my Lord Lieutenants Summons.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>Your Letter I have received, and in Anſwer thereof, I am commanded to maintain this City for His Majeſty (which by the power of God) I am re<g ref="char:EOLhyphen"/>ſolved to do: So I reſt,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Servant, <hi>Wa: Butler.</hi>
+               </signed>
+               <dateline>
+                  <hi>Kilkenny,</hi> 
+                  <date>23 <hi>Martii,</hi> 1649.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>For General <hi>Cromwel.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="12" facs="tcp:165595:7"/>
+            <head>A Letter from the Mayor of <hi>Kilkenny.</hi>
+            </head>
+            <opener>
+               <salute>RIght Honorable,</salute>
+            </opener>
+            <p>we know by experience, and have it by your Honors Letters, that you deſire not the ſpilling of blood, nor the ſpoiling of Cities and Towns: And though I doubt not but your Honor would eaſily agree to good and profitable conditions for the City and the Citizens, yet we having a Governor of the City, and another of the Caſtle, who commands us al<g ref="char:EOLhyphen"/>ſo, if befitting Honorable conditions be not given unto the Military part, the City and Citizens do ſtand in dan<g ref="char:EOLhyphen"/>ger of ruine, as well from our own party, as from that of your Honors: This in the name of the City and Citizens, I humbly offer to your Honors gracious wiſe conſideration, and deſire your favorable remedy there<g ref="char:EOLhyphen"/>in, and reſt,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Servant, <hi>Ja: Archdekin,</hi> Mayor of <hi>Kilkenny.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>For the Right Honorable the Lord <hi>Cromwel.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>For General <hi>Cromwel.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>Your laſt Letter I received, and in Anſwer, I have ſuch confidence in God to maintain this place, as I will not loſe it upon ſuch terms as you offer, but will ſooner loſe my life, and the lives of all that are here, rather then ſubmit to ſuch diſhonorable conditions: So I reſt,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Servant, <hi>Wa: Butler.</hi>
+               </signed>
+               <dateline>
+                  <hi>Kilkenny,</hi>
+                  <date>25 <hi>Martii,</hi> 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="13" facs="tcp:165595:7"/>
+            <head>My Lords Letter to the Governor of <hi>Kilkenny.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>If you had been as clear I was in my laſt, I might perhaps have underſtood you, ſo as to give you ſome further Anſwer; but you expreſsing nothing particularly what you except againſt in mine, I have nothing more to return, ſave this, That for ſome Rea<g ref="char:EOLhyphen"/>ſons I cannot let your Trumpeter ſuddenly come back, but have ſent you this by a Drummer of my own. I reſt,</p>
+            <closer>
+               <signed>Your Servant, <hi>O. C.</hi>
+               </signed>
+               <dateline>
+                  <date>25 <hi>Martii,</hi> 1650.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>For the Governor of <hi>Kilkenny.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>A Letter from the Governor of <hi>Kilkenny.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>Yours of this inſtant I received; the particulars which you would have me expreſs are theſe, That the Major and Citizens, and all other the Inhabitants and others now reſident in this City and the Liberties thereof, with their ſervants, ſhall be ſecured of their lives, liberties, eſtates and goods, and live in their own habitations with all freedom: And that our Clergy-men, and all others here reſiding, of what degree, condition or quality ſoever, that ſhall be minded to depart, ſhall be permitted to depart ſafely hence with their goods, and whatſoever they have, to what place ſoever they pleaſe within this Realm, and in their departure ſhall be ſafely conveyed; and that the ſaid Inhabitants ſhall have free Trade and Traffick with all places under the Parliament of <hi>Englands</hi> command, and elſewhere: And that the foreſaid Inhabitants ſhall have their Arms, Ammunition and Artillery for their own defence, the
+<pb n="14" facs="tcp:165595:8"/>
+Town and Liberties thereof paying ſuch reaſonable contribution as ſhall be agreed upon, and not to be otherwiſe charged: And that the Governors, Com<g ref="char:EOLhyphen"/>manders, Officers and Soldiers, both Horſe and Foot now Gariſoned, as well in the Caſtle as in the City, with<g ref="char:EOLhyphen"/>out exception of any of them, ſhall ſafely march here<g ref="char:EOLhyphen"/>hence, with their Arms, Ammunition, Artillery, Bag and Baggage, and whatſoever elſe belongs to them, with their Drums beating, Colours flying, Matches burning, and Bullet in bouch; and that they ſhall have competent time for their departure and carrying away their goods, with a ſufficient and ſafe convoy: And that Major <hi>Nicholas Wale,</hi> and all other Commanders, Officers and Soldiers who came out of the Engliſh Quarters, now reſiding here, ſhall have the benefit of this Agreement; without which I am reſolved to main<g ref="char:EOLhyphen"/>tain this place with Gods help: Thus expecting your Anſwer to this Letter, and that during this Treaty there ſhall be a ceſſation of Arms, and all other acts of Hoſtility of both ſides. I reſt</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Servant, <hi>Wa: Butler.</hi>
+               </signed>
+               <dateline>
+                  <hi>Kilkenny,</hi> 
+                  <date>25 <hi>March,</hi> 1650.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>For General <hi>Cromwel.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>The Lord Lieutenants Anſwer to the Mayor of <hi>Kilkenny.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>Though I could have wiſhed you and the Citizens had been indeed more ſenſible of your own Intereſt and concernments; yet ſince you are minded to involve it ſo much with that of the Soldiers, I am glad to underſtand you, which will be ſome direction to me, what to think and what to do. I reſt</p>
+            <closer>
+               <signed>Your Friend, <hi>O. Cromwel.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>March</hi> 26. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="15" facs="tcp:165595:8"/>
+            <head>A Letter from the Mayor of <hi>Kilkenny.</hi>
+            </head>
+            <opener>
+               <salute>RIght Honorable,</salute>
+            </opener>
+            <p>I received your Honors Letter in anſwer of mine which I wrote unto your Honor, in purſuance of the Propoſitions ſent by our Governor un<g ref="char:EOLhyphen"/>to your Honor, for obtaining of the ſaid conditions, which ſeemed unto us almoſt befitting to be granted: The military part having expoſed themſelves for our de<g ref="char:EOLhyphen"/>fence, which obligeth us not to accept of any Condi<g ref="char:EOLhyphen"/>tions but ſuch as may be befitting them; I deſire your Honor to grant a Ceſſation of Arms, and that Hoſtages on both ſides be ſent, and Commiſſioners appointed to Treat of the Conditions. I reſt,</p>
+            <closer>
+               <signed>
+                  <hi>Your Honors Servant, Ja: Archdekin</hi> Mayor of <hi>Kilkenny.</hi>
+               </signed>
+               <dateline>
+                  <hi>Kilkenny,</hi> 
+                  <date>the 26<hi rend="sup">th</hi> of <hi>March,</hi> 1650.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>For the Right Honorable, General <hi>Cromwel.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIr,</salute>
+            </opener>
+            <p>Thoſe whom God hath brought to a ſenſe of his hand upon them, and to amend, ſubmitting thereto, and to the Power to which he hath ſubjected them, I cannot but pity and tender; and ſo far as that effect appears in you and your fellow Citizens, I ſhall be rea<g ref="char:EOLhyphen"/>dy without capitulation to do more, and better for you and them upon that ground, then upon the high De<g ref="char:EOLhyphen"/>mands of your Governor, or his capitulations for you: I ſuppoſe he hath acquainted you with what I briefly offered yeſterday in relation to your ſelf and the Inha<g ref="char:EOLhyphen"/>bitants, otherwiſe he hath done you the more wrong,
+<pb n="16" facs="tcp:165595:9"/>
+and hath the more to anſwer for to God and man: And notwithſtanding the advantages (as to the commanding and entring the Town) which God hath given us ſince that offer, more then we were poſſeſſed of before; yet I am ſtill willing upon Surrender to make good the ſame to the city, and that with advantage; now in regard of that temper which appears amongſt you by your Let<g ref="char:EOLhyphen"/>ter, though I ſhall not engage for more upon the Go<g ref="char:EOLhyphen"/>vernors Demands for you, whoſe power I conceive is now greater to prejudice and endanger the city, then to protect it: To ſave it from Plundering or Pillage, I promiſed the Soldiery, that if we ſhould take it by ſtorm, the Inhabitants ſhall give them a reaſonable gratuity in money in lieu of the Pillages, and ſo made it death for any man to Plunder, which I ſhall ſtill keep them to, by Gods help (although we ſhould be put to make an entry by force) unleſs I ſhall finde the Inhabi<g ref="char:EOLhyphen"/>tants engaging ſtill with the Governor and Soldiery to make reſiſtance; you may ſee alſo the way I choſe for re<g ref="char:EOLhyphen"/>ducing the place, was ſuch as tended moſt to ſave the Inhabitants from Pillage, and from periſhing promiſ<g ref="char:EOLhyphen"/>cuouſly (the innocent with the guilty) <hi>viz.</hi> by attempt<g ref="char:EOLhyphen"/>ing places which being poſſeſt, might bring it to a Sur<g ref="char:EOLhyphen"/>render, rather then to enter the city it ſelf by force. If what is here expreſt may beget reſolution in you, which would occaſion your ſafety, and be conſiſtent with the end of my coming hither, I ſhall be glad, and reſt,</p>
+            <closer>
+               <signed>Your Friend.</signed>
+               <dateline>
+                  <date>
+                     <hi>March</hi> 26<hi rend="sup">th</hi> 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>Although I may not doubt with Gods help to maintain this place, as I have formerly written, yet I do ſend you the Bearer to let you know, that I am
+<pb n="17" facs="tcp:165595:9"/>
+content to Treat with you of Propoſitions to be made of either ſide, ſo there be a ceſſation of Arms, and all acts of Hoſtility during that Treaty; ſo expecting your anſwer, I reſt,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>
+                  <hi>Your Servant,</hi> WA: BUTLER.</signed>
+               <dateline>
+                  <hi>Kilkenny,</hi> 
+                  <date>the 25<hi rend="sup">th</hi> of <hi>March,</hi> 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Copy of my Lords Letter to the Governor of <hi>Kilkenny.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>Except the condition were much bettered, and we in a worſe poſture and capacity to reduce you (then before the laſt Letters I ſent you) I cannot imagine whence theſe high Demands of yours ariſe: I hope in God before it be long, you may have occaſion to think other thoughts, to which I leave you; I ſhall not ſo much as Treat with you upon theſe Propoſitions. You deſire ſome Articles for Honors ſake, which out of ho<g ref="char:EOLhyphen"/>neſty I do deny; <hi>viz.</hi> That of Marching in the Equi<g ref="char:EOLhyphen"/>page you mention: I tell you, my buſineſs is to reduce you from Arms, and the Country to quietneſs and their due ſubjection, to put an end to War, and not to lengthen it, wiſhing (if it may ſtand with the will of God) this people may live as happily as they did before the bloody Maſſacre and their troubles, and better too; if you and the company with you be of thoſe who re<g ref="char:EOLhyphen"/>ſolve to continue to hinder this, we know who is able to reach you, and I believe will: For the Inhabitants of the Town of whom you ſeem to have a care, you know your retreat to be better then theirs; and therefore its not impolitickly done to ſpeak for them, and to engage them to keep us as long from you as you can: If they be willing to expoſe themſelves to ruine for you, you are
+<pb n="18" facs="tcp:165595:10"/>
+much beholding unto them: As for your Clergy-men, (as you call them) in caſe you agree for a Surrender, they ſhall march away ſafely with their Goods, and what belongs to them; but if they fall otherwiſe into my hands, I believe they know what to expect from me: If upon what I propoſed formerly, with this addition concerning them, you expect things to be cleared, I am content to have Commiſſioners for that purpoſe. I reſt,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Servant, <hi>O. C.</hi>
+               </signed>
+               <dateline>
+                  <date>
+                     <hi>March</hi> 26. 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Letter from the Governor of <hi>Kilkenny.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>In Anſwer of your Letter, If you be pleaſed to appoint Officers for a Treaty, for the ſurrender of the Caſtle and City upon Soldier-like conditions, I will appoint alſo Officers of ſuch quality as are in the Gariſon, provided, that Hoſtages of equality be ſent on both ſides, and a ceſſation of Arms be alſo granted during the Treaty, aſſuring a performance on my ſide of all that will be agreed upon. I reſt,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Servant, <hi>Wa: Butler.</hi>
+               </signed>
+               <dateline>
+                  <hi>Kilkenny,</hi> 
+                  <date>26 <hi>March,</hi> 1650.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>I deſire to know whats become of my Trumpeter whom I imployed two days ago.</p>
+               <closer>
+                  <signed>Wa: Butler.</signed>
+               </closer>
+               <postscript>
+                  <p>For General <hi>Cromwel.</hi>
+                  </p>
+               </postscript>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>The Lord Lieutenants Anſwer to the Governor of <hi>Kilkenny.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>That no extremity may happen for want of a right underſtanding, I am content that Commiſſio<g ref="char:EOLhyphen"/>ners on each part do meet in the Leagure at the Southſide
+<pb n="19" facs="tcp:165595:10"/>
+of the city, authorized to treat and conclude; for which purpoſe, if you ſhall ſpeedily ſend me the names and qualities of the Commiſſioners you will ſend out, I ſhall appoint the like number on my part, authorized as aforeſaid to meet with them, and ſhall ſend in a ſafe conduct for the coming out and return of yours; as for Hoſtages, I conceive it needleſs and dilatory. I expect that the Treaty begin by Eight of the clock this even<g ref="char:EOLhyphen"/>ing, and end by twelve, during which time onely I ſhall agree to a ceſſation, expecting your ſpeedy Anſwer.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>March</hi> 26.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>For the Governor of <hi>Kilkenny.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>A Letter from the Governor of <hi>Kilkenny.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>Yours of this inſtant I received, and do hold the time appointed for the Treaty and ceſſation of Arms to be too ſhort; Major <hi>John Comerford,</hi> Captain <hi>David Turnball, James Cowley</hi> 
+               <abbr>Eſq</abbr> Recorder of this city, and <hi>Edward Rothe</hi> Merchant, are the Commiſſio<g ref="char:EOLhyphen"/>ners appointed by me, who will meet ſuch Commiſſio<g ref="char:EOLhyphen"/>ners as you fix on, at the place by you appointed, by ſix of the clock to morrow morning, or ſooner if you pleaſe, ſo as Hoſtages be ſent to me for their ſafe return, for without Hoſtages to Gentlemen will not go: The reaſon that I conceive the time to be ſhort is, becauſe your Trumpeter came not hither till nine of the clock this night, ſo as I conceive the buſineſs cannot be end<g ref="char:EOLhyphen"/>ed in ſo ſhort a time: I have commanded mine to for<g ref="char:EOLhyphen"/>bear acts of Hoſtility during this Treaty, and I deſire that you do the like. I reſt,</p>
+            <closer>
+               <salute>Sir,</salute>
+               <signed>Your Servant, <hi>Wa: Butler.</hi>
+               </signed>
+               <dateline>
+                  <hi>Kilkenny,</hi> 
+                  <date>26 <hi>March,</hi> 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="20" facs="tcp:165595:11"/>
+            <head>A Copy of my Lord Lieutenants Anſwer to the Go<g ref="char:EOLhyphen"/>vernor of <hi>Kilkenny.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>The reaſon of the ſo late coming of my Anſwer to you, was, becauſe my Trumpet was refuſed to be received at the North end of the Town, and where he was admitted, was kept long upon the Guard: I have ſent you a ſafe conduct for the four Commiſſioners named by you; and if they be ſuch as are unwilling to take my word, I ſhall not to humor them agree to Hoſtages: I am willing to a Treaty for four hours, pro<g ref="char:EOLhyphen"/>vided it begin by twelve of the clock this morning; but for a ceſſation, the time laſt appointed being paſt, I ſhall not agree unto it, to hinder my own proceedings.</p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>March</hi> 27. 1650.</date>
+               </dateline>
+               <signed>Your Servant, <hi>O. Cromwel.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>By both the Governors of the City &amp; Caſtle of <hi>Kilkenny.</hi>
+            </head>
+            <p>I Do here appoint and authorize Major <hi>John Comer<g ref="char:EOLhyphen"/>ford,</hi> Captain <hi>David Turnbal, James Cowly</hi> Re<g ref="char:EOLhyphen"/>corder of <hi>Kilkenny,</hi> and <hi>Edward Roth</hi> Merchant, to treat and agree with the Lord General <hi>Cromwel,</hi> or ſuch as he ſhall appoint, touching the yielding up to the ſaid Lord General this city and caſtle of <hi>Kilkenny,</hi> and the conditions whereupon they ſhall be given up; as witneſs our hands this Twenty ſixth of <hi>March,</hi> 1650.</p>
+            <closer>
+               <signed>Wa: Butler. Ja: Welſh.</signed>
+            </closer>
+            <postscript>
+               <p>A Warrant from the Governors of <hi>Kilkenny,</hi> to the Commiſ<g ref="char:EOLhyphen"/>ſioners to treat.</p>
+            </postscript>
+         </div>
+         <div type="articles">
+            <pb n="21" facs="tcp:165595:11"/>
+            <head>Articles of Agreement between the Commiſſioners appointed by his Excellency the Lord <hi>Cromwel,</hi> Lord Lieutenant General of <hi>Ireland,</hi> for and on behalf of his Excellency, of the one part; And thoſe appointed Commiſſioners by the reſpective Governors of the City and Caſtle of <hi>Kilkenny,</hi> of the other party, <hi>March</hi> 27. 1650.</head>
+            <p n="1">
+               <hi>I.</hi> THat the reſpective Governors of the City and Caſtle of <hi>Kilkenny,</hi> ſhall deliver unto his Ex<g ref="char:EOLhyphen"/>cellency the Lord <hi>Cromwel,</hi> the Lord Lieute<g ref="char:EOLhyphen"/>nent General of <hi>Ireland,</hi> for the uſe of the State of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> the ſaid City and Caſtle, with all Arms, Ammuni<g ref="char:EOLhyphen"/>tion and Proviſions of publique Stores therein, without imbezlement; Except what is hereafter excepted at or before nine of the clock to morrow morning.</p>
+            <p n="2">
+               <hi>II.</hi> That all the Inhabitants of the ſaid City of <hi>Kil<g ref="char:EOLhyphen"/>kenny,</hi> and all others therein, ſhall be defended in their perſons, goods and eſtates, from the violence of the Sol<g ref="char:EOLhyphen"/>diery; and that ſuch as ſhall deſire to remove thence elſe<g ref="char:EOLhyphen"/>where, ſhall have liberty ſo to do, with their goods, within three moneths after the date of theſe Articles.</p>
+            <p n="3">
+               <hi>III.</hi> That the ſaid Governors, with all the Officers and Soldiers under their reſpective commands in the ſaid City and Caſtle, none excepted; and all others who ſhall be ſo pleaſed, ſhall march away at or before nine of the clock to morrow morning with Bag and Baggage; the Officers with their Attendants, with their Arms, and with their Horſes, not exceeding the number of One hundred &amp; fifty horſes; &amp; their Foot Soldiers to march out of the Town two miles distant, with their Arms, and with Drums beating, Colours flying, Matches lighted, and Ball in bouch, and
+<pb n="22" facs="tcp:165595:12"/>
+then and there to deliver up the ſaid Arms to ſuch as ſhall be appointed for receiving them, excepting One hundred Muskets and One hundred Pikes, allowed them for their defence againſt the Tories.</p>
+            <p n="4">
+               <hi>IV.</hi> That the ſaid Officers and Soldiers ſhall have from his Excellency a ſafe Conduct ſix miles from the City of <hi>Kilkenny,</hi> and from thence-forward a Paſs for their ſe<g ref="char:EOLhyphen"/>curity out of his Excellencies quarters; The ſaid Paſs to be in force for ſix days from the date of theſe preſents, they marching at leaſt ten miles each day, and doing no prejudice to the quarters.</p>
+            <p n="5">
+               <hi>V.</hi> That the City of <hi>Kilkenny</hi> ſhall pay Two thouſand pounds as a Gratuity to his Excellencies Army, whereof one thouſand pounds to be paid on the Thirteth of this Moneth, and the other thouſand pounds on the first day of <hi>May</hi> next following, to ſuch as ſhall be by his Excel<g ref="char:EOLhyphen"/>lency thereunto appointed.</p>
+            <p n="6">
+               <hi>VI.</hi> That Major <hi>John Comerford</hi> and Mr. <hi>Edward Roth</hi> ſhall remain Hoſtages under the power of his Ex<g ref="char:EOLhyphen"/>cellency, for performance of the ſaid Articles on the party of the ſaid City and Gariſon of <hi>Kilkenny.</hi>
+            </p>
+            <p n="7">
+               <hi>VII.</hi> Laſtly, for performance of all and ſingular the premiſes, the Parties hereunto have interchangeably put their hands the day and year firſt above-written.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>Ia: Cowley.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Roth.</hi>
+                     </item>
+                     <item>
+                        <hi>Iohn Comerford.</hi>
+                     </item>
+                     <item>
+                        <hi>David Turnbal.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
